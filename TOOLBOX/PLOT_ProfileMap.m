@@ -24,7 +24,7 @@ end
 addpath(genpath([PATH.TOOLS '/GoogleMap']))
 
 %  API
-%plot_google_map('APIKey', 'AIzaSyA-kNJo68OWKco6tdTeToJ46j8maT35AeY') % You only need to run this once, which will store the API key in a mat file for all future usages
+%plot_google_map('APIKey', '') % You only need to run this once, which will store the API key in a mat file for all future usages
 
 
 %% Plotting 
